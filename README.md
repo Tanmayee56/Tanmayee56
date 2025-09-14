@@ -6,7 +6,7 @@ Hi, I’m Tanmayee!
 
 💡 Skilled in Python, Java, and C with experience in end-to-end application development
 
-🔬 Projects spanning AI/ML (GAN image augmentation, CNN cancer detection, fake news detection) and IoT (dual-axis solar tracker, laser security system)
+🔬 Projects spanning AI/ML (GAN image augmentation, cancer detection, fake news detection) and IoT (dual-axis solar tracker, laser security system)
 
 🌱 Currently exploring cybersecurity and advanced AI/ML architectures (GANs, VAEs, LLMs)
 
